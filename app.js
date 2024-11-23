@@ -1,4 +1,4 @@
-//Olha o teste de commit aqui.
+//Teste de conflito de commit.
 //1 - Crie uma lista vazia, com o nome listaGenerica.
 let listaGenerica = [];
 
